@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.4
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Remote service monitor
 License:	PHP License
 Group:		Development/PHP
