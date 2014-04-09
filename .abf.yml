@@ -1,4 +1,5 @@
 removed_sources:
   Net_Monitor-0.2.4.tar.bz2: c8ca95f9c5aa94cd08b79a6eb21134cc21effc15
-sources:
   Net_Monitor-0.2.5.tgz: 65ea4ecca8dc7f82a2b2e7655c9545b4333a2c08
+sources:
+  Net_Monitor-0.3.0.tgz: 272131312543d60acef2ac269ba43dfd430ae711
