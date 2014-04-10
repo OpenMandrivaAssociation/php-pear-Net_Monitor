@@ -46,6 +46,9 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 %doc %{upstream_name}-%{version}/doc/*
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
+%{php_pear_dir}/data/Net_Monitor/README
+%{php_pear_dir}/data/Net_Monitor/build.xml
+%{php_pear_dir}/data/Net_Monitor/composer.json
 
 
 
