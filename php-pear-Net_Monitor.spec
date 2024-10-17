@@ -9,7 +9,7 @@ Summary:	Remote service monitor
 
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_Monitor/
+URL:		https://pear.php.net/package/Net_Monitor/
 Source0:	http://download.pear.php.net/package/Net_Monitor-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
